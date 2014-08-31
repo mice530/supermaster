@@ -1,0 +1,9 @@
+{
+  "name": "clusterA",
+  "version": "0.0.1",
+  "author": "amoschen",
+  "main": "index.js",
+  "dependencies": {
+    "utils-merge": "^1.0.0"
+  }
+}
