@@ -1,5 +1,7 @@
-exports = {
+module.exports = {
     exec: 'worker.js',
 
-    masterPidFile: __dirname + '/test.pid'
+    masterPidFile: __dirname + '/test.pid',
+
+    debug: true
 };
