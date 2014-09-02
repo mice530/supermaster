@@ -1,7 +1,7 @@
 module.exports = {
-    exec: 'worker.js',
+    exec: __dirname + '/worker.js',
 
-    masterPidFile: __dirname + '/test.pid',
+    pidFile: __dirname + '/test.pid',
 
     debug: true
 };
