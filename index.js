@@ -1,1 +1,3 @@
-module.exports = require('./lib/proto');
+module.exports = exports = require('./lib/proto');
+
+exports.worker = require('./lib/worker');

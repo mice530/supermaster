@@ -1,5 +1,5 @@
-var cluster = require('../index.js'),
-    conf = require('./conf.js');
+var cluster = require('../index'),
+    conf = require('./conf');
 
 
 cluster
